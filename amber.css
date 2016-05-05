@@ -10,6 +10,11 @@ body {
 	line-height: 37px;
 }
 
+.img {
+  vertical-align:"bottom"
+
+}
+
 .subtitle {
 	text-align: left;
   padding-left: 15px;
